@@ -5,3 +5,4 @@ This repository servers as main resource for skin authors, who want to incorpora
 It hosts a [wiki](./wiki) which describes concepts of the technology and how it works.
 ##Links:
 ###[Wiki](./wiki)
+###[Steam Customizer site](http://steamcustomizer.com/)
