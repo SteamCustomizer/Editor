@@ -1,4 +1,4 @@
-# Steam Customizer Editor repository
+# Steam Customizer Editor
 ![](https://img.shields.io/badge/Documentation%20coverage-superficially-yellow.svg?style=flat-square)  
 
 This repository servers as main resource for skin authors, who want to incorporate their skin with Steam Customizer customization technology.  
